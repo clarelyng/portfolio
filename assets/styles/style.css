@@ -13,16 +13,14 @@ h1 {
 h2 {
 	font-size: 22px;
 	margin-top: 40;
-	margin-left: 100;
-	margin-right: 100;
 	text-indent: 100;
-	border-opacity: 5;
-	border-collapse: separate;
 	border-color: blue;
 }
 
 .bio {
 	font-size: 14px;
+	margin-left: 50;
+	margin-right: 50;
 }
 .me { 
 
@@ -30,5 +28,10 @@ h2 {
     border-radius: 100px; 
     border-style: solid; 
     margin-top:80px; 
+}
 
+#container {
+	width: 500px;
+	margin:0 auto;
+	text-align: center;
 }
