@@ -1,20 +1,29 @@
 body {
-	background-image: url("../images/bg.jpg");
+	background-image: url("../images/bg2.jpg");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background position: center;
+	background-size: cover;
 }
 h1 {
-	font-size: 50px;
+	color: #388899;
+	text-shadow: 2px 2px #42f4f1;
+	font-size: 55px;
 	font-weight: normal;
 	margin-bottom: 0;
 	background-color: 
 }
 h2 {
-	font-size: 22px;
+	color: #0d8389;
+	text-shadow: 2px 2px #ef9d56;
+	font-family: 'Faster One', cursive;
+	font-size: 30px;
 	margin-top: 40;
-	text-indent: 100;
-	border-color: blue;
+}
+p {
+	color: #014447;
+	background-color: #83e2d8;
+	background-opacity: 0.3;
 }
 
 .bio {
@@ -23,7 +32,7 @@ h2 {
 	margin-right: 50;
 }
 .me { 
-
+	color: #42f4f1;
     height: 200px; 
     border-radius: 100px; 
     border-style: solid; 
