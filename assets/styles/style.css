@@ -3,27 +3,27 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background position: center;
-	background-size: cover;
+	background-size: 1600px 700px;
 }
 h1 {
 	color: #388899;
 	text-shadow: 2px 2px #42f4f1;
 	font-size: 55px;
 	font-weight: normal;
-	margin-bottom: 0;
+	margin-bottom: ;
+	margin-top: 10px;
 	background-color: 
 }
 h2 {
 	color: #0d8389;
-	text-shadow: 2px 2px #ef9d56;
+	text-shadow: 1px 1px #ef9d56;
 	font-family: 'Faster One', cursive;
 	font-size: 30px;
-	margin-top: 40;
+	margin-top: 20;
 }
 p {
-	color: #014447;
 	background-color: #83e2d8;
-	background-opacity: 0.3;
+	opacity: .7;
 }
 
 .bio {
@@ -36,7 +36,7 @@ p {
     height: 200px; 
     border-radius: 100px; 
     border-style: solid; 
-    margin-top:80px; 
+    margin-top:20px; 
 }
 
 #container {
